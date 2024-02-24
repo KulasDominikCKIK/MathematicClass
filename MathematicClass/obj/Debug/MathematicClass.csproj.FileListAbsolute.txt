@@ -1,0 +1,6 @@
+C:\Users\kulas\Desktop\Projects\MathematicClass\MathematicClass\bin\Debug\MathematicClass.exe
+C:\Users\kulas\Desktop\Projects\MathematicClass\MathematicClass\bin\Debug\MathematicClass.pdb
+C:\Users\kulas\Desktop\Projects\MathematicClass\MathematicClass\obj\Debug\MathematicClass.csproj.AssemblyReference.cache
+C:\Users\kulas\Desktop\Projects\MathematicClass\MathematicClass\obj\Debug\MathematicClass.csproj.CoreCompileInputs.cache
+C:\Users\kulas\Desktop\Projects\MathematicClass\MathematicClass\obj\Debug\MathematicClass.exe
+C:\Users\kulas\Desktop\Projects\MathematicClass\MathematicClass\obj\Debug\MathematicClass.pdb
